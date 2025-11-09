@@ -9,6 +9,10 @@
  ### Project Overview 
 
 This project transformed messy, inconsistent business data into a clean, analysis-ready dataset and delivered an interactive Power BI dashboard that centralised Electric Vehicle charging profitability insights, enabling stakeholders to track P&L by site, region, and month, analyse sales and profit trends, and optimise infrastructure planning.
+<img width="1173" height="609" alt="image" src="https://github.com/user-attachments/assets/a9aa944c-da36-47b0-b07d-13f6fe0f2c93" />
+
+
+
 
 ### Data Sources
 Financial Data – Profit & Loss data for each site.
@@ -34,6 +38,7 @@ Handled missing data entries
 
 ### Exploratory Data analysis
 The EDA phase focused on understanding the structure, quality, and relationships within the datasets (Store P&L 2019, Litres, EV, and Master Site List). The key objectives were to detect anomalies, validate consistency, and uncover initial insights before dashboard development
+
 ### Descriptive Statistics
 
 1. Revenue & Costs (P&L):
